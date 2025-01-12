@@ -1,2 +1,2 @@
 # DiamantesGratis
-diamantesfree
+diamantes free
